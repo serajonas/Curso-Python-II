@@ -38,6 +38,23 @@
  print("Informações")
  nome = input("Qual o seu Nome")
  ```
+# Tabela
+|Linguagem|Plataforma|
+|---|---|
+|C#|Web, Desktop, Mobile|
+|JavaScrip|Web, Desktop, Mobile|
+|PHP|Web, Desktop|
+|C|Desktop|
+---
+# Formatação de Texto
+- ~~riscado~~
+- *italico*
+- **negrito**
+- ***negrito e Italico***
+
+
+
+
 
 
 
