@@ -31,13 +31,14 @@
  ---
  # Código
  ## Dentro da linha
- Quando precisar usar um codigo tipo 'print("aaa")' dentro de uma linha
+ Quando precisar usar um codigo tipo `print("aaa")` dentro de uma linha
 
  ## Bloco de Código
- '''Python
- print(Informações)
+ ```Python
+ print("Informações")
  nome = input("Qual o seu Nome")
- '''
+ ```
+
 
 
 
